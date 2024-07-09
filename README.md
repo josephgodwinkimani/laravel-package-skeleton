@@ -4,6 +4,9 @@
 
 <h1 align="center">:library</h1>
 
+[![Unit Tests](https://github.com/josephgodwinkimani/laravel-package-skeleton/actions/workflows/tests.yml/badge.svg)](https://github.com/josephgodwinkimani/laravel-package-skeleton/actions/workflows/tests.yml)
+[![Static Analysis](https://github.com/josephgodwinkimani/laravel-package-skeleton/actions/workflows/static-analysis.yml/badge.svg)](https://github.com/josephgodwinkimani/laravel-package-skeleton/actions/workflows/static-analysis.yml)
+
 ## Introduction
 
 
